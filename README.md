@@ -1,13 +1,13 @@
 <!--
   BEFORE PUBLISHING — replace these placeholders:
-  • YOUR-USERNAME   → your GitHub username (used across ~12 badge/widget URLs)
+  • matthew-senpai   → your GitHub username (used across ~12 badge/widget URLs)
   • YOUR-EMAIL      → your email address
   • YOUR-LINKEDIN   → your LinkedIn profile URL
   • YOUR-PORTFOLIO  → your portfolio site URL
   • The Certifications, Achievements, and Coding Profiles sections contain
     placeholder rows — swap in your real entries.
   • The Contribution Snake section requires the platane/snk GitHub Action
-    set up on a repo named YOUR-USERNAME/YOUR-USERNAME.
+    set up on a repo named matthew-senpai/matthew-senpai.
 -->
 
 <div align="center">
@@ -28,13 +28,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://YOUR-LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matthew-senpai)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=6D28D9&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/YOUR-USERNAME?color=8B5CF6&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/YOUR-USERNAME?color=A855F7&style=flat-square&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=matthew-senpai&color=6D28D9&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/matthew-senpai?color=8B5CF6&style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/matthew-senpai?color=A855F7&style=flat-square&label=Stars)
 
 </div>
 
@@ -110,7 +110,7 @@ Acoustic-emission based cavitation detection for hydraulic machinery, developed 
 | **Performance** | Validated against the MIMII industrial acoustic benchmark dataset |
 | **Security** | Local CAN-bus telemetry only — no external network exposure |
 | **Impact** | Early cavitation detection aimed at preventing hydraulic-machinery damage and unplanned downtime |
-| **Repository** | [github.com/YOUR-USERNAME/hydrashield-edge](https://github.com/YOUR-USERNAME/hydrashield-edge) |
+| **Repository** | [github.com/matthew-senpai/hydrashield-edge](https://github.com/matthew-senpai/hydrashield-edge) |
 
 Built for a machinery-health context where false positives are costly and compute is scarce — the emphasis throughout was validating the model against a real benchmark and proving the pipeline works without needing the physical rig on hand.
 
@@ -129,7 +129,7 @@ An AI-powered early autism risk-screening platform, developed and refined across
 | **Performance** | Iteratively refined across multiple hackathon and paper-presentation rounds |
 | **Security** | Prototype stage — formal security/privacy review pending |
 | **Impact** | Aimed at earlier autism-spectrum risk identification; featured in the Key Projects section of his resume |
-| **Repository** | [github.com/YOUR-USERNAME/seed](https://github.com/YOUR-USERNAME/seed) |
+| **Repository** | [github.com/matthew-senpai/seed](https://github.com/matthew-senpai/seed) |
 
 The core idea has been pressure-tested across different formats — hackathon judges, paper reviewers, and slide iterations — which shaped how the screening logic and pitch narrative evolved.
 
@@ -148,7 +148,7 @@ An attendance system enhanced with face verification, anomaly detection, and off
 | **Performance** | Anomaly-detection layer flags irregular attendance patterns |
 | **Security** | Face verification for identity assurance; offline-sync designed for resilience without persistent connectivity |
 | **Impact** | Core portfolio project; featured in the Key Projects section of his resume |
-| **Repository** | [github.com/YOUR-USERNAME/smart-attendance-system](https://github.com/YOUR-USERNAME/smart-attendance-system) |
+| **Repository** | [github.com/matthew-senpai/smart-attendance-system](https://github.com/matthew-senpai/smart-attendance-system) |
 
 Building it twice — once with a framework, once bare-metal in Java — was a deliberate choice to prove the logic wasn't just a Flask trick.
 
@@ -167,7 +167,7 @@ An ECE research project targeting a Scopus-indexed conference paper: a reconfigu
 | **Performance** | Frequency response measured via VNA and cross-checked against simulation results |
 | **Security** | N/A — RF hardware research project |
 | **Impact** | Targeting submission to a Scopus-indexed IEEE conference in the antenna/IoT space |
-| **Repository** | [github.com/YOUR-USERNAME/reconfigurable-antenna](https://github.com/YOUR-USERNAME/reconfigurable-antenna) |
+| **Repository** | [github.com/matthew-senpai/reconfigurable-antenna](https://github.com/matthew-senpai/reconfigurable-antenna) |
 
 Chosen deliberately as the strongest candidate for academic defensibility among several project options — the kind of project where the simulation has to survive contact with a real PCB and a real VNA.
 
@@ -186,7 +186,7 @@ A full-featured banking system built while preparing for a Zoho advanced coding 
 | **Performance** | Dual-language implementation for direct cross-language comparison |
 | **Security** | SHA-256 password hashing for authentication |
 | **Impact** | Assessment-prep project demonstrating core software-engineering fundamentals under time pressure |
-| **Repository** | [github.com/YOUR-USERNAME/banking-system](https://github.com/YOUR-USERNAME/banking-system) |
+| **Repository** | [github.com/matthew-senpai/banking-system](https://github.com/matthew-senpai/banking-system) |
 
 </details>
 
@@ -245,10 +245,10 @@ A full-featured banking system built while preparing for a Zoho advanced coding 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR--USERNAME-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR-USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-YOUR--USERNAME-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/YOUR-USERNAME)
-[![HackerRank](https://img.shields.io/badge/HackerRank-YOUR--USERNAME-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/YOUR-USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-YOUR--USERNAME-4C1D95?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/YOUR-USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR--USERNAME-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/matthew-senpai)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-YOUR--USERNAME-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/matthew-senpai)
+[![HackerRank](https://img.shields.io/badge/HackerRank-YOUR--USERNAME-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/matthew-senpai)
+[![CodeChef](https://img.shields.io/badge/CodeChef-YOUR--USERNAME-4C1D95?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/matthew-senpai)
 
 </div>
 
@@ -258,10 +258,10 @@ A full-featured banking system built while preparing for a Zoho advanced coding 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&icon_color=8B5CF6&text_color=E9D5FF" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true&background=0D0221&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=matthew-senpai&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&icon_color=8B5CF6&text_color=E9D5FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matthew-senpai&theme=radical&hide_border=true&background=0D0221&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&text_color=E9D5FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-senpai&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&text_color=E9D5FF" width="49%"/>
 
 </div>
 
@@ -271,7 +271,7 @@ A full-featured banking system built while preparing for a Zoho advanced coding 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=matthew-senpai&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
@@ -281,7 +281,7 @@ A full-featured banking system built while preparing for a Zoho advanced coding 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&bg_color=0D0221&color=A855F7&line=8B5CF6&point=E9D5FF&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=matthew-senpai&theme=react-dark&bg_color=0D0221&color=A855F7&line=8B5CF6&point=E9D5FF&hide_border=true" width="100%"/>
 
 </div>
 
@@ -291,7 +291,7 @@ A full-featured banking system built while preparing for a Zoho advanced coding 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/matthew-senpai/matthew-senpai/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -314,7 +314,7 @@ OpenTo: [SDE Roles, Embedded Systems Engineering, AI/ML Engineering — 2027 gra
 
 [![Gmail](https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://YOUR-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matthew-senpai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO)
 
 </div>
