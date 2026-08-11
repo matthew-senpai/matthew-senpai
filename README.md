@@ -1,11 +1,5 @@
 <!--
-  BEFORE PUBLISHING — replace these placeholders:
-  • matthew-senpai   → your GitHub username (used across ~12 badge/widget URLs)
-  • YOUR-EMAIL      → your email address
-  • YOUR-LINKEDIN   → your LinkedIn profile URL
-  • YOUR-PORTFOLIO  → your portfolio site URL
-  • The Certifications, Achievements, and Coding Profiles sections contain
-    placeholder rows — swap in your real entries.
+  ONE SETUP STEP LEFT:
   • The Contribution Snake section requires the platane/snk GitHub Action
     set up on a repo named matthew-senpai/matthew-senpai.
 -->
@@ -20,14 +14,13 @@
 
 <br/>
 
-![Academic](https://img.shields.io/badge/Velammal_Engineering_College-ECE-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Academic](https://img.shields.io/badge/Velammal_Engineering_College-ECE_%7C_CGPA_8.01-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Chennai,_India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/godwin-matthew-e-b55163298)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewgodwin2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matthew-senpai)
 
 <br/>
@@ -44,7 +37,7 @@
 
 I'm an Electronics and Communication Engineering student at **Velammal Engineering College**, building at the intersection of **embedded systems, AI/ML, and full-stack software**. My work spans acoustic-signal ML on microcontrollers, RF/antenna research aimed at Scopus-indexed publication, AI-driven healthcare screening tools, and portfolio-grade software projects built for hackathons and technical assessments.
 
-I care about shipping things that actually run on real constraints — a quantized model that fits on an STM32, an antenna design that survives VNA measurement, a pitch that survives a judging panel.
+I care about shipping things that actually run on real constraints — a quantized model that fits on an STM32, an antenna design that survives VNA measurement, a pitch that survives a judging panel. I build complete, working projects end-to-end rather than stopping at prototypes, and I'm adaptable, detail-oriented, and eager to keep growing as an engineer.
 
 **🎯 Open To:** SDE Roles · Embedded Systems Engineering · AI/ML Engineering — *2027 graduating batch*
 
@@ -69,11 +62,14 @@ I care about shipping things that actually run on real constraints — a quantiz
 <br/>
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-6D28D9?style=flat-square&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4C1D95?style=flat-square&logo=postgresql&logoColor=white)
 ![SHA--256](https://img.shields.io/badge/SHA--256_Auth-4C1D95?style=flat-square&logo=letsencrypt&logoColor=white)
 
 **Embedded, RF & Tooling**
 <br/>
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino_UNO-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6D28D9?style=flat-square&logo=freertos&logoColor=white)
 ![CAN Bus](https://img.shields.io/badge/J1939_CAN_Bus-8B5CF6?style=flat-square)
 ![CST Studio Suite](https://img.shields.io/badge/CST_Studio_Suite-4C1D95?style=flat-square)
@@ -120,16 +116,16 @@ Built for a machinery-health context where false positives are costly and comput
 <summary><b>🧩 S.E.E.D — System for Early Detection and Development</b></summary>
 <br/>
 
-An AI-powered early autism risk-screening platform, developed and refined across multiple hackathon pitches (Hackathon 360° Round 1, Redrob AI Hackathon) and paper presentations.
+An AI-powered early autism risk-screening platform combining passive video analysis for younger children with gamified app-based sessions for older children, developed and refined across multiple hackathon pitches (Hackathon 360° Round 1, Redrob AI Hackathon) and paper presentations.
 
 | | |
 |---|---|
 | **Stack** | Python · AI/ML Screening Models · Pitch & Presentation Tooling |
-| **Scale** | Prototype-stage screening platform |
-| **Performance** | Iteratively refined across multiple hackathon and paper-presentation rounds |
+| **Scale** | Prototype-stage, parent-facing direct-to-consumer platform (not clinic-only) |
+| **Performance** | M-CHAT-R/F clinical screening criteria integrated directly into the assessment pipeline for clinically grounded results |
 | **Security** | Prototype stage — formal security/privacy review pending |
-| **Impact** | Aimed at earlier autism-spectrum risk identification; featured in the Key Projects section of his resume |
-| **Repository** | [github.com/matthew-senpai/seed](https://github.com/matthew-senpai/seed) |
+| **Impact** | Built a referral pathway routing flagged cases to telehealth specialists for follow-up; featured in the Key Projects section of his resume |
+| **Repository** | [github.com/matthew-senpai/SEED](https://github.com/matthew-senpai/SEED) |
 
 The core idea has been pressure-tested across different formats — hackathon judges, paper reviewers, and slide iterations — which shaped how the screening logic and pitch narrative evolved.
 
@@ -139,14 +135,14 @@ The core idea has been pressure-tested across different formats — hackathon ju
 <summary><b>🎯 Smart Attendance System — Face Verification</b></summary>
 <br/>
 
-An attendance system enhanced with face verification, anomaly detection, and offline-sync support, implemented twice — once in Python/Flask and once in plain Java with no frameworks.
+A real-time attendance tracking system combining RFID hardware tagging with microcontroller integration to eliminate proxy attendance, extended with face verification and anomaly detection to catch spoofed or irregular check-ins — implemented twice, once in Python/Flask and once in plain Java with no frameworks.
 
 | | |
 |---|---|
-| **Stack** | Python · Flask · Java (no frameworks) · Face Verification · Anomaly Detection |
-| **Scale** | Dual-language implementation of the full system |
-| **Performance** | Anomaly-detection layer flags irregular attendance patterns |
-| **Security** | Face verification for identity assurance; offline-sync designed for resilience without persistent connectivity |
+| **Stack** | Python · Flask · Java (no frameworks) · RFID · Face Verification · Anomaly Detection |
+| **Scale** | Dual-language implementation backed by a database storing registered users and second-precision attendance logs |
+| **Performance** | Anomaly-detection layer flags irregular or spoofed check-ins |
+| **Security** | RFID + face verification for identity assurance; offline-sync captures and reconciles attendance logs without a live connection |
 | **Impact** | Core portfolio project; featured in the Key Projects section of his resume |
 | **Repository** | [github.com/matthew-senpai/smart-attendance-system](https://github.com/matthew-senpai/smart-attendance-system) |
 
@@ -194,6 +190,22 @@ A full-featured banking system built while preparing for a Zoho advanced coding 
 
 ## 🧭 Experience & Research
 
+**Embedded Systems Intern — GlobeSci**
+<br/>
+*1 Week*
+
+- Gained hands-on exposure to real-time IoT implementations
+
+`Embedded Systems` `IoT`
+
+**Intern — Tamil Nadu Power Generation Corp. Ltd.**
+<br/>
+*North Chennai TPS, Stage 2 · 19 Days*
+
+- Gained in-depth exposure to the power generation process through live visits across multiple operational departments
+
+`Power Systems` `Industrial Operations`
+
 **Independent Research — Reconfigurable Antenna Project**
 <br/>
 *Velammal Engineering College · ECE Department*
@@ -205,8 +217,6 @@ A full-featured banking system built while preparing for a Zoho advanced coding 
 
 `RF Engineering` `Antenna Design` `CST/HFSS` `PCB Design`
 
-> _Add internship or industry experience here as you gain it._
-
 ---
 
 ## 🏆 Achievements
@@ -215,7 +225,12 @@ A full-featured banking system built while preparing for a Zoho advanced coding 
 
 | Recognition | Details |
 |---|---|
-| _Add your achievement_ | _e.g., hackathon placement, competition result, award_ |
+| 🥈 2nd Prize | National Level Project Competition 2K25 — Velammal Institute of Technology |
+| 🏅 1st Runner-Up | EXPRO'26 Paper Presentation — Madras Institute of Technology (MIT) |
+| 🎓 Participation | INDCON'26 — Anna University |
+| 🎓 Participation | INSTERA 2K25 Project Presentation — Sri Sairam Engineering College |
+| 🎓 Participation | RACES'26 Inter-College Mini Project Presentation — Velammal Engineering College |
+| 📜 Certificate | IETE Student Forum Certificate — Institution of Electronics and Telecommunication Engineers |
 
 </div>
 
@@ -223,21 +238,9 @@ A full-featured banking system built while preparing for a Zoho advanced coding 
 
 ## 📜 Certifications
 
-**AWS**
-<br/>
-![AWS Badge](https://img.shields.io/badge/Add_Your_AWS_Cert-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Oracle**
-<br/>
-![Oracle Badge](https://img.shields.io/badge/Add_Your_Oracle_Cert-F80000?style=flat-square&logo=oracle&logoColor=white)
-
 **NPTEL**
 <br/>
-![NPTEL Badge](https://img.shields.io/badge/Add_Your_NPTEL_Cert-6D28D9?style=flat-square)
-
-**Cisco**
-<br/>
-![Cisco Badge](https://img.shields.io/badge/Add_Your_Cisco_Cert-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![NPTEL Badge](https://img.shields.io/badge/Cryptography_%26_Network_Security-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
 
 ---
 
@@ -245,10 +248,12 @@ A full-featured banking system built while preparing for a Zoho advanced coding 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR--USERNAME-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/matthew-senpai)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-YOUR--USERNAME-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/matthew-senpai)
-[![HackerRank](https://img.shields.io/badge/HackerRank-YOUR--USERNAME-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/matthew-senpai)
-[![CodeChef](https://img.shields.io/badge/CodeChef-YOUR--USERNAME-4C1D95?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/matthew-senpai)
+[![LeetCode](https://img.shields.io/badge/LeetCode-admin88856-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/admin88856/)
+[![SkillRack](https://img.shields.io/badge/SkillRack-Profile-8B5CF6?style=for-the-badge&logo=codeforces&logoColor=white)](http://www.skillrack.com/profile/560975/96c3723e4d31695e6b729dc6249b7ceb93a32ddb)
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/admin88856?theme=dark&font=Karma&ext=heatmap" width="60%"/>
 
 </div>
 
@@ -312,10 +317,9 @@ OpenTo: [SDE Roles, Embedded Systems Engineering, AI/ML Engineering — 2027 gra
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://YOUR-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewgodwin2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/godwin-matthew-e-b55163298)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matthew-senpai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO)
 
 </div>
 
