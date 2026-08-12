@@ -35,9 +35,9 @@
 
 ## 🧠 About Me
 
-I'm an Electronics and Communication Engineering student at **Velammal Engineering College**, building at the intersection of **embedded systems, AI/ML, and full-stack software**. My work spans acoustic-signal ML on microcontrollers, RF/antenna research aimed at Scopus-indexed publication, AI-driven healthcare screening tools, and portfolio-grade software projects built for hackathons and technical assessments.
+I'm an Electronics and Communication Engineering student at **Velammal Engineering College**, building at the intersection of **embedded systems, AI/ML, and full-stack software**. My work spans acoustic-signal ML on microcontrollers, AI-driven healthcare screening tools, and portfolio-grade software projects built for hackathons and technical assessments.
 
-I care about shipping things that actually run on real constraints — a quantized model that fits on an STM32, an antenna design that survives VNA measurement, a pitch that survives a judging panel. I build complete, working projects end-to-end rather than stopping at prototypes, and I'm adaptable, detail-oriented, and eager to keep growing as an engineer.
+I care about shipping things that actually run on real constraints — a quantized model that fits on an STM32, a pitch that survives a judging panel. I build complete, working projects end-to-end rather than stopping at prototypes, and I'm adaptable, detail-oriented, and eager to keep growing as an engineer.
 
 **🎯 Open To:** SDE Roles · Embedded Systems Engineering · AI/ML Engineering — *2027 graduating batch*
 
@@ -72,8 +72,6 @@ I care about shipping things that actually run on real constraints — a quantiz
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6D28D9?style=flat-square&logo=freertos&logoColor=white)
 ![CAN Bus](https://img.shields.io/badge/J1939_CAN_Bus-8B5CF6?style=flat-square)
-![CST Studio Suite](https://img.shields.io/badge/CST_Studio_Suite-4C1D95?style=flat-square)
-![ANSYS HFSS](https://img.shields.io/badge/ANSYS_HFSS-7C3AED?style=flat-square&logo=ansys&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
@@ -151,25 +149,6 @@ Building it twice — once with a framework, once bare-metal in Java — was a d
 </details>
 
 <details>
-<summary><b>📡 Reconfigurable Antenna — PIN-Diode Frequency Switching</b></summary>
-<br/>
-
-An ECE research project targeting a Scopus-indexed conference paper: a reconfigurable antenna using PIN-diode frequency switching, taken from simulation through to physical hardware validation.
-
-| | |
-|---|---|
-| **Stack** | CST Studio Suite · ANSYS HFSS · PCB Fabrication · VNA Measurement |
-| **Scale** | Full simulation → fabrication → hardware validation pipeline |
-| **Performance** | Frequency response measured via VNA and cross-checked against simulation results |
-| **Security** | N/A — RF hardware research project |
-| **Impact** | Targeting submission to a Scopus-indexed IEEE conference in the antenna/IoT space |
-| **Repository** | [github.com/matthew-senpai/reconfigurable-antenna](https://github.com/matthew-senpai/reconfigurable-antenna) |
-
-Chosen deliberately as the strongest candidate for academic defensibility among several project options — the kind of project where the simulation has to survive contact with a real PCB and a real VNA.
-
-</details>
-
-<details>
 <summary><b>🏦 Full-Featured Banking System — Python & Java</b></summary>
 <br/>
 
@@ -205,17 +184,6 @@ A full-featured banking system built while preparing for a Zoho advanced coding 
 - Gained in-depth exposure to the power generation process through live visits across multiple operational departments
 
 `Power Systems` `Industrial Operations`
-
-**Independent Research — Reconfigurable Antenna Project**
-<br/>
-*Velammal Engineering College · ECE Department*
-
-- Narrowed the project scope to a PIN-diode reconfigurable antenna as the strongest candidate for academic defensibility
-- Ran frequency-switching simulations in CST Studio Suite and ANSYS HFSS ahead of PCB fabrication
-- Validated fabricated hardware against simulation using VNA measurement
-- Preparing submission to a Scopus-indexed IEEE conference in the antenna/IoT space
-
-`RF Engineering` `Antenna Design` `CST/HFSS` `PCB Design`
 
 ---
 
@@ -307,7 +275,7 @@ A full-featured banking system built while preparing for a Zoho advanced coding 
 ```yaml
 Learning: [Advanced Data Structures & System Design, TinyML deployment patterns]
 Building: [HYDRASHIELD-EDGE — acoustic-emission cavitation detection for hydraulic machinery]
-Exploring: [RF / antenna design for IoT, W3C Verifiable Credentials]
+Exploring: [W3C Verifiable Credentials]
 OpenTo: [SDE Roles, Embedded Systems Engineering, AI/ML Engineering — 2027 graduating batch]
 ```
 
